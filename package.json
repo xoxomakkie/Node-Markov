@@ -1,0 +1,16 @@
+{
+  "name": "markov-text-generator",
+  "version": "1.0.0",
+  "description": "A Markov chain text generator",
+  "main": "markov.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node makeText.js"
+  },
+  "keywords": ["markov", "text", "generator", "chain"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
